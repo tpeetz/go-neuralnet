@@ -1,2 +1,4 @@
-# go-neuralnet
-Neural networks in Go
+# Go Neuralnet
+
+Go Neuralnet is a library for neural networks.
+
